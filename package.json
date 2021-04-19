@@ -1,0 +1,19 @@
+{
+  "name": "lightswitch",
+  "version": "1.0.0",
+  "description": "CSS lightswitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolvo/lightswitch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zolvo/lightswitch/issues"
+  },
+  "homepage": "https://github.com/zolvo/lightswitch#readme"
+}
